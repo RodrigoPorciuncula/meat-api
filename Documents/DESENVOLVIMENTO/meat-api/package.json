@@ -1,0 +1,25 @@
+{
+  "name": "meat-api",
+  "version": "1.0.0",
+  "description": "Estudo - Montando uma API de restaurantes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "API node",
+    "node",
+    "nodeJs",
+    "restify",
+    "mongoDB"
+  ],
+  "author": "Rodrigo Porciuncula",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "6.3.4"
+  },
+  "devDependencies": {
+    "@types/restify": "8.5.1"
+  }
+}
