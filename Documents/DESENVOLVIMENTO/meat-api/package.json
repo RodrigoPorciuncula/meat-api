@@ -17,9 +17,15 @@
   "author": "Rodrigo Porciuncula",
   "license": "ISC",
   "dependencies": {
-    "restify": "6.3.4"
+    "bcrypt": "1.0.3",
+    "mongoose": "4.13.9",
+    "restify": "6.3.4",
+    "restify-errors": "5.0.0"
   },
   "devDependencies": {
-    "@types/restify": "8.5.1"
+    "@types/bcrypt": "3.0.1",
+    "@types/mongoose": "5.10.4",
+    "@types/restify": "8.5.1",
+    "@types/restify-errors": "4.3.3"
   }
 }
